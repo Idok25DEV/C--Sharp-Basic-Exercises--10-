@@ -1,0 +1,4 @@
+C:\Users\ofer_\source\repos\ProblemsInC#\ProblemsInC#\obj\Debug\net8.0\ProblemsInC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofer_\source\repos\ProblemsInC#\ProblemsInC#\obj\Debug\net8.0\ProblemsInC#.AssemblyInfoInputs.cache
+C:\Users\ofer_\source\repos\ProblemsInC#\ProblemsInC#\obj\Debug\net8.0\ProblemsInC#.AssemblyInfo.cs
+C:\Users\ofer_\source\repos\ProblemsInC#\ProblemsInC#\obj\Debug\net8.0\ProblemsInC#.csproj.CoreCompileInputs.cache
